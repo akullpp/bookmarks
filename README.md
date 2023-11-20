@@ -1,5 +1,15 @@
 # Bookmarks
 
+A curated list of bookmarks related to software engineering culture.
+
+## Contents
+
+- [Frontend](#frontend)
+- [Criticism](#criticism)
+- [Comedy](#comedy)
+- [Jobs](#jobs)
+- [Other](#other)
+
 ## Frontend
 
 - [Component party](https://component-party.dev/) - Web component JS frameworks overview by their syntax and features.
