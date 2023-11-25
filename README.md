@@ -11,6 +11,7 @@ A curated list of bookmarks related to software engineering culture.
 - [Jobs](#jobs)
 - [Other](#other)
 - [News](#news)
+- [Tools](#tools)
 
 ## AI
 
@@ -50,3 +51,10 @@ A curated list of bookmarks related to software engineering culture.
 - [GitHub Trending](https://github.com/trending?since=weekly&spoken_language_code=en) - Trending repositories.
 - [Hacker News](https://news.ycombinator.com/) - News aggregator.
 - [hackernewsletter](https://hackernewsletter.com/) - Weekly newsletter.
+
+## Tools
+
+- [Cuckoo](https://cuckoo.team/ckorkA12Ius7) - Timers with remote sessions.
+- [CyberChef](https://gchq.github.io/CyberChef/) - Swiss army knife.
+- [Excalidraw](https://excalidraw.com/) - Drawing diagrams.
+- [swimlanes.io](https://swimlanes.io/) - Drawing swimlanes.
