@@ -51,6 +51,7 @@ A curated list of bookmarks related to software engineering culture.
 - [GitHub Trending](https://github.com/trending?since=weekly&spoken_language_code=en) - Trending repositories.
 - [Hacker News](https://news.ycombinator.com/) - News aggregator.
 - [hackernewsletter](https://hackernewsletter.com/) - Weekly newsletter.
+- [Technology Radar](https://www.thoughtworks.com/en-us/radar) - ThoughtWorks' opinion on the tech industry.
 
 ## Tools
 
